@@ -1,21 +1,35 @@
-In today’s competitive job market, a resume isn’t just a document—it’s your first impression. The AI Resume Checker is designed to bridge the gap between human recruiters and applicants by giving personalized, actionable feedback on resumes.
+**AI Resume Checker**
 
-The system uses Artificial Intelligence and Natural Language Processing (NLP) to analyze resumes in real-time. It can:
+In today’s competitive job market, a resume isn’t just a document—it’s your first impression. AI Resume Checker bridges the gap between applicants and recruiters by providing personalized, actionable feedback on resumes in real-time.
 
-Identify missing keywords that match the job description.
+Features
 
-Suggest improvements in formatting, readability, and clarity.
+Keyword Analysis: Identifies missing keywords that align with the target job description.
 
-Highlight strengths and weak points in work experience, skills, and education.
+Resume Optimization: Suggests improvements in formatting, readability, and clarity.
 
-Score resumes based on impact and relevance, helping candidates understand how their resume performs compared to industry standards.
+Strength & Weakness Insights: Highlights key strengths and areas for improvement in work experience, skills, and education.
 
-What makes it human-like and interactive:
+Impact Scoring: Scores resumes based on relevance and impact, helping candidates understand how their resume measures up to industry standards.
 
-Users get detailed, easy-to-understand feedback, not just a score.
+Human-Like, Interactive Feedback
 
-It can provide examples of better phrasing, helping the candidate learn while improving their resume.
+Provides detailed, easy-to-understand feedback—not just a score.
 
-The system can even adapt recommendations based on role or industry, so it feels personalized rather than generic.
+Suggests better phrasing and examples to improve the resume.
 
-This project demonstrates not only full-stack development skills (frontend + backend + AI integration) but also an understanding of how AI can improve real human experiences, like job hunting
+Adapts recommendations based on role or industry, offering a personalized experience.
+
+Tech Stack
+
+Frontend: Streamlit for an interactive web interface
+
+Backend: Python with AI integration
+
+AI: Google Gemini API for natural language processing and resume analysis
+
+File Handling: PDF and DOCX support
+
+Why This Project
+
+This project demonstrates a combination of full-stack development skills and a strong understanding of how AI can enhance real-world experiences. It’s designed to help job seekers improve their resumes while learning actionable tips to make their applications stand out
